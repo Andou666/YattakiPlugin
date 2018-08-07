@@ -1,0 +1,6 @@
+# YattakiPlugin
+ドットインストールのjQuery講座をやった気になれるjQueryプラグイン
+ドットインストールのjQuery講座をやった気になれるjQueryプラグインです。
+
+# 使い方
+あとで書きます
